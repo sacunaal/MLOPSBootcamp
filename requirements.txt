@@ -4,6 +4,7 @@ numpy
 pandas
 matplotlib
 seaborn
+missingno
 
 # Development tools
 black
